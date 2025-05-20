@@ -18,6 +18,8 @@ Com mais de dois anos de experiência prática em projetos de Business Intellige
 ## Meus Projetos
 
 <!-- Exemplo de embed de Power BI -->
+---
+## Dashboard Vendas
 <iframe title="Dashboard Vendas" width="600" 
         height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmY1NmYzNzQtZmUxNy00M2JkLWFiMDctNzgwMjZkNzYwN2JjIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9" 
         frameborder="0" allowFullScreen="true"></iframe>
