@@ -19,7 +19,7 @@ Com mais de dois anos de experiência prática em projetos de Business Intellige
 
 <!-- Exemplo de embed de Power BI -->
 <iframe width="800" height="600"
-        src="https://app.powerbi.com/view?r=SEU_LINK_AQUI"
+        src="https://app.powerbi.com/view?r=eyJrIjoiYmY1NmYzNzQtZmUxNy00M2JkLWFiMDctNzgwMjZkNzYwN2JjIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9"
         frameborder="0" allowFullScreen="true"></iframe>
 
 > Navegue pelo menu para conhecer cada case e entender como meus dashboards podem trazer valor ao seu negócio!
