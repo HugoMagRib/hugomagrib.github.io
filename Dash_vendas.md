@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dashboard Vendas"
+permalink: /cases/nome-do-case/
 ---
 
 # Case: Dashboard de Vendas
