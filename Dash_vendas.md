@@ -15,7 +15,7 @@ quanto mais granulado for o dado mais eficiente é a analise.
 Utilizando dados ficticios armazenados no supabese as tabelas são importadas via odbc direto para o Power Bi, onde utilizo o Power query para fazer os tratamentos.
 
 **Dashboard**  
-<iframe title="Dashboard Vendas" width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmY1NmYzNzQtZmUxNy00M2JkLWFiMDctNzgwMjZkNzYwN2JjIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Dashboard Vendas" width="900" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmY1NmYzNzQtZmUxNy00M2JkLWFiMDctNzgwMjZkNzYwN2JjIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 **Principais insights**  
 - A analise mensal destaca os meses de setembro e outubro com maior volume de faturamento mostrando uma tendencia sazonal, mas com uma queda logo em sequencia no mes de novembro mostrando a necessidade de analise mais detalhada para investigar essa tendencia.
