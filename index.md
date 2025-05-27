@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Página Principal
 nav_exclude: true
 ---
 
