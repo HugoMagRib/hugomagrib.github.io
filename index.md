@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 ---
 
 # Olá, eu sou Hugo!
