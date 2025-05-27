@@ -1,3 +1,4 @@
 title: "Portfólio Power BI"
 description: "Meus dashboards embedados"
-theme: minima
+url: "https://hugomagrib.github.io/"   # opcional, mas bom pra SEO
+# baseurl: ""                          # use caso esteja em subdiretório
