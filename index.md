@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Home
-nav_exclude: True
 ---
 
 # Olá, eu sou Hugo!
