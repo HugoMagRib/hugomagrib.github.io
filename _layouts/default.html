@@ -7,41 +7,51 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    <header style="padding: 1rem; border-bottom: 1px solid #ddd;">
-      <nav style="display: flex; justify-content: space-between; align-items: center;">
-        <div>
-          <a href="{{ '/' | relative_url }}"><strong>🏠 Home</strong></a>
-        </div>
-        <div>
-          <div style="position: relative; display: inline-block;">
-            <button onclick="toggleDropdown()" style="background: none; border: none; cursor: pointer; font-weight: bold;">Cases</button>
-            <div id="dropdown" style="display: none; position: absolute; right: 0; background: white; border: 1px solid #ccc; 0.5rem 0; min-width: 200px;">
-              <a href="{{ '/cases/Dash_vendas/' | relative_url }}
-                "style="display: block;
-                padding: 0.8rem 1.2rem;
-                font-size: 1.15rem;
-                color: #333;
-                text-decoration: none;">>Vendas Anual </a><br>
-              <!-- Adicione mais links de cases aqui -->
-            </div>
-          </div>
-        </div>
-      </nav>
+    <!-- Título Centralizado -->
+    <header style="text-align: center; padding: 2rem 1rem 0.5rem;">
+      <h1 style="font-size: 2.8rem; margin: 0;">Portfólio Power BI</h1>
     </header>
 
+    <!-- Navegação abaixo do título -->
+    <nav style="display: flex; justify-content: center; gap: 2rem; padding: 1rem 0; border-bottom: 1px solid #ccc;">
+      <a href="{{ '/' | relative_url }}" style="text-decoration: none; font-weight: bold;">🏠 Home</a>
+
+      <div style="position: relative;">
+        <span style="cursor: pointer; font-weight: bold;" onclick="toggleDropdown()">📂 Cases ▾</span>
+        <div id="dropdown" style="display: none; position: absolute; background: white; border: 1px solid #ccc; padding: 0.5rem 0; min-width: 200px; z-index: 100;">
+          <a href="{{ '/cases/Dash_vendas/' | relative_url }}" style="display: block; padding: 0.8rem 1.2rem; font-size: 1.15rem; color: #333; text-decoration: none;">📊 Vendas Anual</a>
+          <!-- Adicione mais links de cases aqui -->
+        </div>
+      </div>
+
+      <a href="mailto:hugomagrib@gmail.com" style="text-decoration: none; font-weight: bold;">✉️ Contato</a>
+    </nav>
+
+    <!-- Conteúdo da página -->
     <main style="max-width: 900px; margin: 2rem auto; padding: 0 1rem;">
       {{ content }}
     </main>
 
+    <!-- Rodapé -->
     <footer style="text-align: center; margin-top: 3rem; padding: 1rem; border-top: 1px solid #ccc;">
-      <p>📧 <a href="mailto:seu@email.com">hugomagrib@gmail.com</a> | 🔗 <a href="www.linkedin.com/in/hugomagrib" target="_blank">LinkedIn</a></p>
+      <p>📧 <a href="mailto:hugomagrib@gmail.com">hugomagrib@gmail.com</a> |
+         🔗 <a href="https://www.linkedin.com/in/hugomagrib" target="_blank">LinkedIn</a></p>
     </footer>
 
+    <!-- Script para dropdown -->
     <script>
       function toggleDropdown() {
-        var el = document.getElementById("dropdown");
-        el.style.display = el.style.display === "block" ? "none" : "block";
+        const dropdown = document.getElementById("dropdown");
+        dropdown.style.display = dropdown.style.display === "block" ? "none" : "block";
       }
+
+      // Fecha dropdown ao clicar fora
+      document.addEventListener('click', function (event) {
+        const dropdown = document.getElementById("dropdown");
+        if (!event.target.closest('div')) {
+          dropdown.style.display = 'none';
+        }
+      });
     </script>
   </body>
 </html>
