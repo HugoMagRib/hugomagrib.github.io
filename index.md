@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Portfolio Power BI
 ---
 
 # Olá, eu sou Hugo!
