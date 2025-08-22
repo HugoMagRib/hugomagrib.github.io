@@ -22,6 +22,8 @@ Cada case contém:
 - Principais insights obtidos
 
 ## 📁 Casos disponíveis
+- [Monitoramento de Vendas](https://hugomagrib.github.io/cases/Mon_vendas/)  
+  → Monitoramento de dados mensais, com insights em tempo real.  
 
 - [Otimização de Vendas](https://hugomagrib.github.io/cases/Dash_vendas/)  
   → Análise do desempenho regional e de produtos com mais de R$ 10 milhões em vendas.  
