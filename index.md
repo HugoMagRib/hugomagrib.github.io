@@ -23,8 +23,8 @@ Com mais de dois anos de experiência prática em projetos de Business Intellige
 <!-- Exemplo de embed de Power BI -->
 ## Monitoramento de Vendas
 [➡️ Saiba mais sobre este case](/cases/Mon_vendas/)
-<iframe title="clone_pgto Cliente" width="450" height="300" 
-src="https://app.powerbi.com/view?r=eyJrIjoiYWY4NmFmNTItZmZjYi00MzBkLTgwNTctNDEwYTkyYWU2MmZmIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9"
+<iframe title="clone_pgto Cliente" width="450" 
+height="300" src="https://app.powerbi.com/view?r=eyJrIjoiYWY4NmFmNTItZmZjYi00MzBkLTgwNTctNDEwYTkyYWU2MmZmIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9"
 frameborder="0" allowFullScreen="true"></iframe>
 
 ## Resultado de Vendas
