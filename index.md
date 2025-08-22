@@ -22,9 +22,9 @@ Com mais de dois anos de experiência prática em projetos de Business Intellige
 
 <!-- Exemplo de embed de Power BI -->
 ## Monitoramento de Vendas
-<iframe title="clone_pgto Cliente" width="900"
-        height="600" src="https://app.powerbi.com/reportEmbed?reportId=64e212dc-5d9a-4d18-9b28-7f0aef0c9701&autoAuth=true&ctid=d8775a3a-e89a-4ccd-accb-4408887c34e0"
-        frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="clone_pgto Cliente" width="900" height="600" 
+src="https://app.powerbi.com/view?r=eyJrIjoiYWY4NmFmNTItZmZjYi00MzBkLTgwNTctNDEwYTkyYWU2MmZmIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9"
+frameborder="0" allowFullScreen="true"></iframe>
 
 ## Resultado de Vendas
 [➡️ Saiba mais sobre este case](/cases/Dash_vendas/)
