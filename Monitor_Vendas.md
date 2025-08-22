@@ -15,9 +15,7 @@ além de projeções e históricos.
 Utilizando dados ficticios armazenados via excel as tabelas são importadas via direct query, onde utilizo o Power query para fazer os tratamentos.
 
 **Dashboard**  
-<iframe <iframe title="clone_pgto Cliente" width="900"
-        height="600" src="https://app.powerbi.com/reportEmbed?reportId=64e212dc-5d9a-4d18-9b28-7f0aef0c9701&autoAuth=true&ctid=d8775a3a-e89a-4ccd-accb-4408887c34e0"
-        frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="clone_pgto Cliente" width="900" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYWY4NmFmNTItZmZjYi00MzBkLTgwNTctNDEwYTkyYWU2MmZmIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 **Principais insights**  
 -KPIs Gerais: O faturamento atual é de R$ 954 mil (≈75% da projeção de R$ 1,27 milhão), com crescimento de +23% frente ao mês anterior. Isso mostra boa tendência, mas ainda distante da meta total.
