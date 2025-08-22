@@ -5,7 +5,7 @@ title: Portfolio Power BI
 
 # Olá, eu sou Hugo!
 
-Tenho 31 anos e estou em transição de carreira de Técnico de Informática para Analista de Dados.  
+Tenho 32 anos e estou em transição de carreira de Técnico de Informática para Analista de Dados.  
 Com mais de dois anos de experiência prática em projetos de Business Intelligence na área de crédito, uso Power BI para transformar dados em insights que ajudam a tomar decisões estratégicas.
 
 - 🎓 Formação em Técnico de Informática para Internet e estudante de Analise e desenvolvimento de sistemas.  
@@ -21,7 +21,12 @@ Com mais de dois anos de experiência prática em projetos de Business Intellige
 
 
 <!-- Exemplo de embed de Power BI -->
-## Dashboard Vendas
+## Monitoramento de Vendas
+<iframe title="clone_pgto Cliente" width="900"
+        height="600" src="https://app.powerbi.com/reportEmbed?reportId=64e212dc-5d9a-4d18-9b28-7f0aef0c9701&autoAuth=true&ctid=d8775a3a-e89a-4ccd-accb-4408887c34e0"
+        frameborder="0" allowFullScreen="true"></iframe>
+
+## Resultado de Vendas
 [➡️ Saiba mais sobre este case](/cases/Dash_vendas/)
 <iframe title="Dashboard Vendas" width="900" 
         height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmY1NmYzNzQtZmUxNy00M2JkLWFiMDctNzgwMjZkNzYwN2JjIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9" 
