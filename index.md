@@ -11,7 +11,6 @@ Com mais de dois anos de experiência prática em Business Intelligence na área
 - 🎓 Formação em Técnico de Informática para Internet e estudante de Analise e desenvolvimento de sistemas.  
 - 📊 Cursos e Certificações das principais ferramentas: Microsoft Power BI, Sql para Analise de Dados e Python”.
 - 💼 Estágio em BI: modelagem de dados, ETL, DAX avançado e criação de dashboards interativos utilizando Power BI.
-- 🚀 Atualmente Analista de dados Freelance.
 ---
 
 ## Meus Projetos(Em Atualização)
