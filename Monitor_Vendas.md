@@ -8,10 +8,9 @@ nav_exclude: true
 # Case: Monitoramento de vendas
 
 **Introdução**  
-Um Dashboard de monitoramento de vendas é bastante util para que os tomadores de decisão tenham acesso as dados de produção de forma rapida e dinâmica. O monitoramento traz informações de vendas divididas pelos principais atores,
-além de projeções e históricos.
+Um Dashboard de monitoramento de vendas é bastante util para que os tomadores de decisão tenham acesso as dados de produção de forma rapida e dinâmica. O monitoramento traz informações de vendas divididas pelos principais atores, além de projeções e históricos.
 
-**Contexto**</br>
+**Contexto**
 Este dashboard utiliza dados ficticios, mas inspirado em um caso real no qual atuei. O processo começou com a extração de dados em Excel, realizada a partir de um sistema de gestão, com apoio de automação em Python para organizar e estruturar os arquivos recebidos. Fui responsável por todo o desenvolvimento do dashboard, desde a preparação e tratamento dos dados até a criação dos visuais interativos no Power BI. O objetivo central foi transformar dados brutos em informações consolidadas, disponibilizadas em uma única página de fácil interpretação para diferentes níveis de gestão.
 
 O público-alvo do projeto incluía gerentes comerciais, gestores de área e diretoria, que necessitavam de informações rápidas e confiáveis para embasar suas tomadas de decisão estratégicas.
