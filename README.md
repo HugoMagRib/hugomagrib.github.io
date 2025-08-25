@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio de projetos em **Análise de Dados** e **Business In
 
 ## 👨‍💻 Sobre mim
 
-Sou Hugo, profissional em transição de carreira da área de suporte técnico para **Análise de Dados**. Tenho:
+Sou Hugo, profissional de **Análise de Dados comerciais**. Tenho:
 
 - Formação técnica em Informática para Internet  
 - Experiência como estagiário de BI na área de crédito  
@@ -13,7 +13,7 @@ Sou Hugo, profissional em transição de carreira da área de suporte técnico p
 
 ## 🧠 O que você vai encontrar aqui
 
-Este portfólio é uma vitrine interativa com os principais projetos que desenvolvi.  
+Este portfólio é uma vitrine com os principais projetos que desenvolvi.  
 Cada case contém:
 
 - Dashboard dinâmico (Power BI)
@@ -30,7 +30,8 @@ Cada case contém:
 
 ## 🛠️ Tecnologias utilizadas
 
-- Power BI
+- Power BI( Power Query, M e Dax)
+- Excel
 - Supabase(PostgreeSql)
 - GitHub Pages
 - Jekyll (tema Minima)
