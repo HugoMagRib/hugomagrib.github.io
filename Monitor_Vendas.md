@@ -28,6 +28,7 @@ Entre os principais recursos implementados, destaco:
 - Indicadores de tendências, projeções e alertas, destacando oportunidades de melhoria, pontos de atenção e a performance de novos parceiros ou daqueles que reduziram suas vendas.
 
 O resultado foi um painel intuitivo e visualmente limpo, que agrega valor ao processo de gestão, trazendo maior agilidade, transparência e precisão na análise dos indicadores comerciais.
+
 **Dashboard**  
 <iframe title="clone_pgto Cliente" width="900" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYWY4NmFmNTItZmZjYi00MzBkLTgwNTctNDEwYTkyYWU2MmZmIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
