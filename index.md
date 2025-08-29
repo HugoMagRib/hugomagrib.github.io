@@ -22,12 +22,16 @@ Com mais de dois anos de experiência prática em Business Intelligence na área
 
 <!-- Exemplo de embed de Power BI -->
 ## Monitoramento de Vendas
+> controle de vendas e desempenho!
+
 [➡️ Saiba mais sobre este case](/cases/Mon_vendas/)
 <iframe title="clone_pgto Cliente" width="900" 
 height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYWY4NmFmNTItZmZjYi00MzBkLTgwNTctNDEwYTkyYWU2MmZmIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9"
 frameborder="0" allowFullScreen="true"></iframe>
 ---
 ## Resultado de Vendas
+> Resultado temporal para analise descritiva!
+
 [➡️ Saiba mais sobre este case](/cases/Dash_vendas/)
 <iframe title="Dashboard Vendas" width="900" 
         height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYmY1NmYzNzQtZmUxNy00M2JkLWFiMDctNzgwMjZkNzYwN2JjIiwidCI6ImQ4Nzc1YTNhLWU4OWEtNGNjZC1hY2NiLTQ0MDg4ODdjMzRlMCJ9" 
